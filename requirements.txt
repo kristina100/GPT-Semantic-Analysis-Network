@@ -1,0 +1,149 @@
+absl-py==0.13.0
+albumentations==0.4.6
+asgiref==3.4.1
+astor==0.8.1
+attrs==19.3.0
+audioread==2.1.8
+auto-tune==0.1.0
+backcall==0.2.0
+blis==0.7.5
+boto3==1.12.22
+botocore==1.15.49
+catalogue==1.0.0
+certifi==2021.5.30
+cffi @ file:///tmp/wheel/cffi-1.14.0-cp37-cp37m-linux_aarch64.whl
+chardet==3.0.4
+charset-normalizer==2.0.7
+click==8.0.1
+cloudpickle==1.3.0
+colorama==0.4.4
+commonmark==0.9.1
+configparser==5.0.2
+cycler==0.10.0
+cymem==2.0.6
+Cython @ file:///tmp/wheel/Cython-0.29.14-cp37-cp37m-linux_aarch64.whl
+dask==2.18.1
+decorator==4.4.1
+deep-moxing @ file:///tmp/wheel/deep_moxing-1.0.2-py3-none-any.whl
+Django==3.2.6
+docutils==0.15.2
+easydict==1.9
+en-core-web-sm @ file:///home/ma-user/work/Tensorflow_T/Installation_package/en_core_web_sm-2.3.1.tar.gz
+ephemeral-port-reserve==1.1.4
+esdk-obs-python==3.20.1
+et-xmlfile==1.1.0
+Flask==1.1.1
+ftfy==6.0.3
+gast==0.5.2
+google-pasta==0.2.0
+grpcio @ file:///tmp/wheel/grpcio-1.33.1-cp37-cp37m-linux_aarch64.whl
+grpcio-tools @ file:///tmp/wheel/grpcio_tools-1.26.0-cp37-cp37m-linux_aarch64.whl
+gunicorn==20.0.4
+h5py @ file:///tmp/wheel/h5py-2.10.0-cp37-cp37m-linux_aarch64.whl
+hccl @ file:///usr/local/Ascend/nnae/5.0.2/fwkacllib/lib64/hccl-0.1.0-py3-none-any.whl
+huaweicloud-sdk-python-modelarts-dataset @ file:///tmp/wheel/huaweicloud_sdk_python_modelarts_dataset-0.1.5-py2.py3-none-any.whl
+idna==2.8
+image==1.5.28
+imageio==2.9.0
+imgaug @ file:///tmp/wheel/imgaug-0.4.0-py2.py3-none-any.whl
+importlib-metadata==4.6.4
+ipykernel==5.2.0
+ipython==7.26.0
+ipython-genutils==0.2.0
+itsdangerous==2.0.1
+jdcal==1.4.1
+jedi==0.18.0
+Jinja2==3.0.1
+jmespath==0.10.0
+joblib==1.0.1
+jupyter-client==6.2.0
+jupyter-core==4.7.1
+Keras==2.3.1
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.2
+kfac==0.2.0
+kiwisolver @ file:///tmp/wheel/kiwisolver-1.1.0-cp37-cp37m-linux_aarch64.whl
+librosa==0.6.3
+llvmlite @ file:///tmp/wheel/llvmlite-0.31.0-cp37-cp37m-linux_aarch64.whl
+lxml @ file:///tmp/wheel/lxml-4.4.2-cp37-cp37m-linux_aarch64.whl
+Markdown==3.3.4
+MarkupSafe==2.0.1
+matplotlib @ file:///tmp/wheel/matplotlib-3.1.2-cp37-cp37m-linux_aarch64.whl
+matplotlib-inline==0.1.2
+modelarts @ http://cnsouth222-modelarts-sdk.obs.cn-south-222.ai.pcl.cn/modelarts-latest-py2.py3-none-any.whl
+moxing-framework @ file:///tmp/tfmox/moxing_framework-2.0.0.rc2.4b57a67b-py2.py3-none-any.whl
+mpmath==1.2.1
+murmurhash==1.0.6
+nest-asyncio==1.5.1
+networkx==2.6.2
+npu-bridge @ file:///usr/local/Ascend/tfplugin/5.0.2/tfplugin/bin/npu_bridge-1.15.0-py3-none-any.whl
+npu-device==0.1
+numba @ file:///tmp/wheel/numba-0.47.0-cp37-cp37m-linux_aarch64.whl
+numexpr @ file:///tmp/wheel/numexpr-2.7.1-cp37-cp37m-linux_aarch64.whl
+numpy==1.21.3
+opencv-python @ file:///tmp/wheel/opencv_python-4.2.0.34-cp37-cp37m-linux_aarch64.whl
+openpyxl==3.0.3
+opt-einsum==3.3.0
+pandas @ file:///tmp/wheel/pandas-1.1.3-cp37-cp37m-linux_aarch64.whl
+parso==0.8.2
+pathlib2==2.3.6
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow @ file:///tmp/wheel/Pillow-7.0.0-cp37-cp37m-linux_aarch64.whl
+plac==1.1.3
+preshed==3.0.6
+prometheus-client==0.8.0
+prompt-toolkit==3.0.19
+protobuf==3.19.0
+psutil @ file:///tmp/wheel/psutil-5.7.0-cp37-cp37m-linux_aarch64.whl
+ptyprocess==0.7.0
+pycparser==2.20
+pycryptodome==3.10.1
+Pygments==2.9.0
+pyparsing==2.4.7
+pytest-runner==5.3.1
+python-dateutil==2.8.2
+pytz==2021.1
+PyWavelets @ file:///tmp/wheel/PyWavelets-1.1.1-cp37-cp37m-linux_aarch64.whl
+PyYAML @ file:///tmp/wheel/PyYAML-5.3.1-cp37-cp37m-linux_aarch64.whl
+pyzmq==22.2.1
+requests==2.22.0
+resampy==0.2.1
+rich==10.12.0
+s3transfer==0.3.7
+schedule-search==0.0.1
+scikit-image @ file:///tmp/wheel/scikit_image-0.17.2-cp37-cp37m-linux_aarch64.whl
+scikit-learn @ file:///tmp/wheel/scikit_learn-0.20.0-cp37-cp37m-linux_aarch64.whl
+scipy @ file:///tmp/wheel/scipy-1.3.3-cp37-cp37m-linux_aarch64.whl
+semantic-version==2.8.5
+Shapely==1.7.1
+six==1.16.0
+SoundFile==0.10.2
+spacy==2.3.7
+sqlparse==0.4.1
+srsly==1.0.5
+sympy==1.4
+tables @ file:///tmp/wheel/tables-3.6.1-cp37-cp37m-linux_aarch64.whl
+te @ file:///usr/local/Ascend/nnae/5.0.2/fwkacllib/lib64/te-0.4.0-py3-none-any.whl
+tenacity==8.0.1
+tensorboard==1.15.0
+tensorflow @ file:///tmp/wheel/tensorflow-1.15.0-cp37-cp37m-linux_aarch64.whl
+tensorflow-estimator==1.15.1
+tensorflow-probability==0.10.1
+termcolor==1.1.0
+thinc==7.4.5
+tifffile==2021.8.8
+toml==0.10.1
+topi @ file:///usr/local/Ascend/nnae/5.0.2/fwkacllib/lib64/topi-0.4.0-py3-none-any.whl
+tornado==6.1
+tqdm==4.46.1
+traitlets==5.0.5
+typing-extensions==3.10.0.0
+umap-learn-modified @ file:///tmp/wheel/umap_learn_modified-0.3.8-py3-none-any.whl
+urllib3==1.25.11
+wasabi==0.8.2
+wcwidth==0.2.5
+Werkzeug==2.0.1
+wrapt==1.12.1.post20200829151159
+xmltodict==0.12.0
+zipp==3.5.0
